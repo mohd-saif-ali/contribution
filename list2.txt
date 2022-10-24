@@ -1,0 +1,6 @@
+{
+    "github": "https://github.com/Hittitech",
+    "name": "Md Adnan Sami",
+"email":"mdadnansami9381@gmail.com".
+     #opensource
+},
