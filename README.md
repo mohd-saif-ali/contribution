@@ -11,3 +11,10 @@
     "email": "satyakisinha0@gmail.com"
     #opensource 
     },
+  
+     { 
+    "github": "https://github.com/boysmart98"
+    "name": "mohd saif", 
+    "email": "smartboy939191@gmail.com"
+    #opensource 
+    },
