@@ -16,3 +16,8 @@
     "name": "mohd saif", 
     "email": "smartboy939191@gmail.com"
 },
+{ 
+    "github": "https://github.com/adnansami1947"
+    "name": "mohd adnan", 
+    "email": "adnan939191@gmail.com"
+},
